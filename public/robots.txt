@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tapestrydao.vercel.app/sitemap.xml
